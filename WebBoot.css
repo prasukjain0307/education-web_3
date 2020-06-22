@@ -1,0 +1,102 @@
+h2
+{
+	background-color: #F6F6F6;
+	text-align: center;
+	
+}
+
+.nav_hov:hover
+{
+
+}
+.login
+{
+	text-align:center;
+	background-color:lightgreen;
+	padding:10px;
+	width:100px;
+    font-weight: bold
+}
+.signup
+{   text-align: center;
+	background-color:orange;
+	padding:10px;
+	width:100px;
+    font-weight: bold;
+}
+.login:hover
+{
+	background-color:red;
+	color:white;
+}
+.signup:hover
+{
+	background-color: yellow;
+}
+
+.color_back
+{
+  margin-top: 20px;
+  background-image: linear-gradient(pink, white);
+
+}
+.course_color
+{
+	background-image: linear-gradient(#5DB2F7, white);
+}
+.img-container
+{
+	text-align: center;
+}
+.pk_para
+{
+	text-align: center;
+}
+#head_main
+{
+	background-color: gray;
+}
+#head
+{
+
+	background-color: lightgray;
+}
+#head:hover
+{
+	color:white;
+}
+#button_id
+{   
+    margin-top: 20px;
+	background-image: linear-gradient(black,lightgreen); 
+}
+#button_id:hover
+{
+	background-image: linear-gradient(black,orange); 
+}
+#a_id
+{
+ color:white;
+}
+
+footer
+{
+ margin-top:20px;	
+ background:#1B252D;
+ color:#FFFFFF
+}
+.link
+{
+	   color:#FFFFFF;
+
+}
+.link:hover
+{
+   color:red;
+   text-decoration: none;
+  
+}
+ul
+{
+	list-style-type: none;
+}
